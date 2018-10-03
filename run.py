@@ -9,3 +9,7 @@ def sub(x, y):
 
 def mult1(x, y):
     return x * y
+
+
+def mult2(x, y, z):
+    return x * y * z
