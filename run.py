@@ -13,3 +13,7 @@ def mult1(x, y):
 
 def mult2(x, y, z):
     return x * y * z
+
+
+def div(x, y):
+    return x / y
